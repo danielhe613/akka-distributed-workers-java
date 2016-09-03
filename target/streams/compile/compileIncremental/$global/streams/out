@@ -1,0 +1,26 @@
+[debug] 
+[debug] Initial source changes: 
+[debug] 	removed:Set()
+[debug] 	added: Set()
+[debug] 	modified: Set(D:\workspace2\akka-distributed-workers-java\src\main\java\worker\Frontend.java)
+[debug] Removed products: Set()
+[debug] External API changes: API Changes: Set()
+[debug] Modified binary dependencies: Set()
+[debug] Initial directly invalidated sources: Set(D:\workspace2\akka-distributed-workers-java\src\main\java\worker\Frontend.java)
+[debug] 
+[debug] Sources indirectly invalidated by:
+[debug] 	product: Set()
+[debug] 	binary dep: Set()
+[debug] 	external source: Set()
+[debug] All initially invalidated sources: Set(D:\workspace2\akka-distributed-workers-java\src\main\java\worker\Frontend.java)
+[info] Compiling 1 Java source to D:\workspace2\akka-distributed-workers-java\target\scala-2.11\classes...
+[debug] Attempting to call com.sun.tools.javac.api.JavacTool@5f810284 directly...
+[debug] Java compilation took 0.196520219 s
+[debug] Java analysis took 0.042544971 s
+[debug] Java compile + analysis took 0.243827656 s
+[debug] New invalidations:
+[debug] 	Set()
+[debug] Initial set of included nodes: Set()
+[debug] Previously invalidated, but (transitively) depend on new invalidations:
+[debug] 	Set()
+[debug] All newly invalidated sources after taking into account (previously) recompiled sources:Set()

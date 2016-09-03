@@ -1,0 +1,3 @@
+[debug] Copy resource mappings: 
+[debug] 	(D:\workspace2\akka-distributed-workers-java\src\main\resources\application.conf,D:\workspace2\akka-distributed-workers-java\target\scala-2.11\classes\application.conf)
+[debug] 	(D:\workspace2\akka-distributed-workers-java\src\main\resources\worker.conf,D:\workspace2\akka-distributed-workers-java\target\scala-2.11\classes\worker.conf)
